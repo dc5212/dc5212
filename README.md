@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Open AI projects**
+- 🔭 I’m currently working on **Worksheet Generator Based on PDF Uploaded**
 
 - 🌱 I’m currently learning **LLM and their impact of Gen AI**
 
