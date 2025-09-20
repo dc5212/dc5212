@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Worksheet Generator Based on PDF Uploaded**
+- 🔭 I’m currently working in Amazon out of NYC
 
-- 🌱 I’m currently learning **LLM and their impact of Gen AI**
+- 🌱 I’m currently working on Chaos Engineering tools
 
 - 👨‍💻 All of my projects are available at [github.com/dc5212](github.com/dc5212)
 
